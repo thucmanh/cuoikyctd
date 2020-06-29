@@ -1,0 +1,11 @@
+program exam;
+const y = -.678;
+var x: integer;
+    s: string;
+    s2: string;
+
+begin
+    x := -2;
+    x := -2**(2+3);
+    s := s2 + "abc"
+end.

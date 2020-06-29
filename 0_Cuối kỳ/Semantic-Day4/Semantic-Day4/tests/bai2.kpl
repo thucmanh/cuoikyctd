@@ -1,0 +1,7 @@
+program bai2;
+var x : integer;
+    n : integer;
+
+begin 
+    x := 2*n**n**2.5**2*(2+5);
+end.
